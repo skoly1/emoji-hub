@@ -18,6 +18,8 @@ function App() {
         return e.category === category.target.value;
       });
       setEmojiData(filteredData);
+    } else {
+      setEmojiData(emojiHardDataCopy);
     }
   };
 
