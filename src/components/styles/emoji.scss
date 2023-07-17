@@ -1,0 +1,24 @@
+.card {
+  background-color: #181818;
+  color: #fff;
+  border-radius: 2rem;
+}
+
+.title {
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+.type {
+  padding-right: 0;
+  font-size: 0.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.value-class {
+  font-size: 0.6rem;
+  padding-left: 0;
+  display: flex;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
