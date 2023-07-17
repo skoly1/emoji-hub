@@ -19,8 +19,7 @@ This project was developed for a competition and is built using React. It aims t
 4. Category filter added to filter emoji's based on category.
 
 ## Demo
-
-[Provide a link to a live demo or showcase screenshots of your project]
+https://skoly1.github.io/emoji-hub/
 
 ## Installation
 
